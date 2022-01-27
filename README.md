@@ -14,7 +14,27 @@ On our GitHub profile you can find code about
 - OSCUP: Open Source Custom UART Protocol (consider supporting it!)
 - FiremanSam (Fire detector using A.I.)
 
+
+## Our Stats
 [![ProjectoOfficial's github stats](https://github-readme-stats.vercel.app/api?username=ProjectoOfficial&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/ProjectoOfficial">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjectoOfficial&theme=light&hide_langs_below=1" />
+</a>
+
+## OSCUP
+Oscup is an open source custom UART protocol. It is written in C and allows two microcontrollers (ESP32 for now) to share data within a specified payload. Each packet sent and received contains information about the payload length, the command associated to the payload sent and an ID for the microcontroller which sent the message. It also include CRC to check wether a packet is corrupted or not.
+Oscup also manages ACKs and NACKs, sending again the packet if it was corrupted for example.
+
+For shure it contains lots of bugs, we've written a python library which allows also computers to use OSCUP for communicating with microcontrollers, and we would like to extend it more! Any idea? Open an issue and help us improving it! 
+
+
+<a href="https://github.com/ProjectoOfficial/Oscup">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectoOfficial&repo=Oscup&theme=light" />
+</a>
+
+
+If you like the Idea, just Star the project! :)
 
 ## Where you can find us :mag_right:
 <a href="Https://youtube.com/c/ProjectoOfficial" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>

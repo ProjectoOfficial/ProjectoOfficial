@@ -14,6 +14,8 @@ On our GitHub profile you can find code about
 - OSCUP: Open Source Custom UART Protocol (consider supporting it!)
 - FiremanSam (Fire detector using A.I.)
 
+[![ProjectoOfficial's github stats](https://github-readme-stats.vercel.app/api?username=ProjectoOfficial&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Where you can find us :mag_right:
 <a href="Https://youtube.com/c/ProjectoOfficial" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href="https://www.instagram.com/OfficialProjecTo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>

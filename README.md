@@ -26,6 +26,7 @@ On our GitHub profile you can find code about
 
 ## Contacts :mailbox:
 YouTube Collaborations: <a href="mailto:miniprojectsofficial@gmail.com?">Send us an e-mail</a>
+
 Contact Daniel: <a href="mailto:daniel_r@live.it?">write to Daniel</a>
 <!--
 **ProjectoOfficial/ProjectoOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -25,7 +25,8 @@ On our GitHub profile you can find code about
 <a href="https://it.linkedin.com/company/officialprojecto" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ## Contacts :mailbox:
-<a href="mailto:miniprojectsofficial@gmail.com?">Send us an e-mail</a>
+YouTube Collaborations: <a href="mailto:miniprojectsofficial@gmail.com?">Send us an e-mail</a>
+Contact Daniel: <a href="mailto:daniel_r@live.it?">write to Daniel</a>
 <!--
 **ProjectoOfficial/ProjectoOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

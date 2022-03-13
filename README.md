@@ -52,3 +52,6 @@ If you like the Idea, just Star the project! :)
 YouTube Collaborations: <a href="mailto:miniprojectsofficial@gmail.com?">Send us an e-mail</a>
 
 Contact Daniel: <a href="mailto:daniel_r@live.it?">write to Daniel</a>
+
+## Note
+All the software provided on this GitHub page has been written and is maintained by Dott. Daniel Rossi

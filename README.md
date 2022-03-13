@@ -1,11 +1,11 @@
 # Hi there 😄
 
 ## About
-We are Daniel and Alberto, A.I. Engineer and Software Engineer respectively! We share code, projects and lessons under the name Projecto. Our main aim is to share knowledge; it all started randomly when we opened a YouTube Channel in 2016 and it grew very fast!
+I am Daniel Rossi, I am a Software Engineer and I am actually attending a Master degree in Artificial Intelligence Engineering! I share code, projects and lessons under the name Projecto. My main aim is to share knowledge; it all started randomly when I opened a YouTube Channel in 2016 with Alberto Lusuardi, and it has grown "very fast"!
 
-We are sill university students, and this means that we are looking forward to share with all of you what we learn there.
+I am still a university student, and this means that I am looking forward to share with all of you what I learn there.
 
-On our GitHub profile you can find code about
+On this GitHub profile you can find code about
 - instagram bot
 - A.I. algorithms
 - STM32 example code
@@ -15,7 +15,7 @@ On our GitHub profile you can find code about
 - FiremanSam (Fire detector using A.I.)
 
 
-## Our Stats
+## Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ProjectoOfficial&count_private=true"/>
 </p>

@@ -17,7 +17,7 @@ On this GitHub profile you can find code about
 
 ## Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ProjectoOfficial&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ProjectoOfficial&theme=dark&count_private=true"/>
 </p>
 
 <p align="center">

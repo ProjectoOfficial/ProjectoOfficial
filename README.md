@@ -22,7 +22,7 @@ On this GitHub profile you can find code about
 
 <p align="center">
 <a href="https://github.com/ProjectoOfficial">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjectoOfficial&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjectoOfficial&theme=dark&hide_langs_below=1" />
 </a>
 </p>
 
@@ -34,7 +34,7 @@ For shure it contains lots of bugs, we've written a python library which allows 
 
 <p align="center">
 <a href="https://github.com/ProjectoOfficial/Oscup">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectoOfficial&repo=Oscup&theme=light" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectoOfficial&repo=Oscup&theme=dark" />
 </a>
 </p>
 

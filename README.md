@@ -14,6 +14,8 @@ On this GitHub profile you can find code about
 - OSCUP: Open Source Custom UART Protocol (consider supporting it!)
 - FiremanSam (Fire detector using A.I.)
 
+<p>I am also on StackOverflow as</p>
+<a href="https://stackoverflow.com/users/19266935/daniel-rossi"><img src="https://stackoverflow.com/users/flair/19266935.png?theme=dark" width="208" height="58" alt="profile for Daniel Rossi at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Daniel Rossi at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 ## Stats
 <p align="center">

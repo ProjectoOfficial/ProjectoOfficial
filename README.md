@@ -4,7 +4,7 @@
   <img src="https://media1.giphy.com/media/CVtNe84hhYF9u/giphy.gif?cid=ecf05e47pbpuv3jmbzotmhv43jm5lf9487vf11jyo01ko3ow&rid=giphy.gif&ct=g" width="150"/>
 </div>
 
-<h3 align="center">Software Engineer and actually Artificial Intelligence Engineering student at Università degli Studi di Modena e Reggio Emilia</h3>
+<h3 align="center">Software Engineer and Artificial Intelligence Engineering student at Università degli Studi di Modena e Reggio Emilia</h3>
 
 <br/>
 

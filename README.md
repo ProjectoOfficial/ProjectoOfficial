@@ -4,7 +4,7 @@
   <img src="https://media1.giphy.com/media/CVtNe84hhYF9u/giphy.gif?cid=ecf05e47pbpuv3jmbzotmhv43jm5lf9487vf11jyo01ko3ow&rid=giphy.gif&ct=g" width="150"/>
 </div>
 
-<h3 align="center">Software Engineer and Artificial Intelligence Engineering student at Università degli Studi di Modena e Reggio Emilia</h3>
+<h3 align="center">PhD Candidate in ICT at Università degli Studi di Modena e Reggio Emilia</h3>
 
 <br/>
 
@@ -15,9 +15,9 @@
 I share code, projects and lessons under the name Projecto. My main aim is to share knowledge; it all started randomly when I opened a YouTube Channel in 2016 with a school colleague! I am still a university student, and this means that I am looking forward to share with all of you what I learn there.
 
 ## More Info
-- 🔭 I’m currently working on [ComputerVisionProject](https://github.com/ProjectoOfficial/ComputerVisionProject)
+- 🔭 I’m currently doing research on Computer Vision and AI for embedded systems
 
-- 🌱 I’m currently learning **pyTorch, Torchvision, Tensorflow**
+- 🌱 I’m currently learning **pyTorch, Torchvision, onnx**
 
 - 🤝 I’m looking for help with [OSCUP](https://github.com/ProjectoOfficial/Oscup)
 
@@ -71,7 +71,7 @@ For shure it contains lots of bugs, we've written a python library which allows 
 
 If you like the Idea, just Star the project! :)
 
-## Where you can find us :mag_right:
+## Where you can find me :mag_right:
 <a href="Https://youtube.com/c/ProjectoOfficial" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href="https://www.instagram.com/OfficialProjecTo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/MiniProjectsOfficial" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
